@@ -53,7 +53,7 @@ cd flask-mongodb-crud
       - URL : '/items'
       - Method: 'GET'
 
-   3. **Get Single Items**:
+   3. **Get Single Item**:
       - URL : '/item/_id'
       - Method: 'GET'
 
@@ -61,7 +61,7 @@ cd flask-mongodb-crud
       - URL : '/update/_id'
       - Method: 'PUT'
 
-   5. **Delete All Items**:
+   5. **Delete an Item**:
       - URL : '/delete/_id'
       - Method: 'DELETE'
    

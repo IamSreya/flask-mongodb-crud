@@ -38,7 +38,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Fla
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/IanSreya/flask-mongodb-crud.git
+git clone https://github.com/IamSreya/flask-mongodb-crud.git
 cd flask-mongodb-crud
 ```
 ## Install postman
